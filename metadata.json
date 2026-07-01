@@ -1,0 +1,6 @@
+{
+  "name": "Learn English",
+  "description": "Learn • Practice • Improve • Succeed. Created by Imran Qaseem.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
