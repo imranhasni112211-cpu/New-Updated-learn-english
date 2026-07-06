@@ -1,11 +1,11 @@
-import { useState, useEffect, FormEvent } from "react";
+import { useState, useEffect, FormEvent } from "react"
 import { 
   ShieldCheck, Lock, User, Mail, BookOpen, Sparkles, Mic, 
   TrendingUp, LogOut, KeyRound, Check, HelpCircle, Eye, EyeOff, ShieldAlert,
   Cloud
 } from "lucide-react";
 import { deriveE2EKey } from "./utils/crypto";
-
+import Logo from "./logo.png";
 // Imported Interactive Components
 import PlacementQuiz from "./components/PlacementQuiz";
 import StatsDashboard from "./components/StatsDashboard";

@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "imran.hasni112211@gmail.com",
+      "displayName": "Imran.Qaseem",
+      "salt": "c5b5a451796f83582d79fd4af9b9de80",
+      "hash": "eb5b31267a07d9aba41ac382a37842628e6f335dcb4cee012c80c3b8e25ef5776d769cebf0f185ffb2d2ea9e21d9b6981ac445e26f3188dfcbb69259969efc02",
+      "cefrLevel": "Beginner (A1)",
+      "createdAt": 1783321260123
+    }
+  ],
+  "sessions": {
+    "4ce2044e55d981f7f4c44f7fa6d1d6ddf30a87fab3e2496f46685de35a116da3": {
+      "email": "imran.hasni112211@gmail.com",
+      "expires": 1783324943722
+    }
+  },
+  "chats": {}
+}
